@@ -1,0 +1,1309 @@
+{
+    "material": [
+        {
+            "materialType": "Free machining plain carbon steels",
+            "materialDesignation": [
+                {
+                    "saeDesignation": "1212, 1213, 1215",
+                    "brinellHardness": [
+                        {
+                            "hardness": "100-150",
+                            "toolMaterial": {
+                                "HSS": {
+                                    "speed": 150
+                                },
+                                "uncoatedCarbide": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 17,
+                                            "average": 
+                                        },
+                                        "speed": {
+                                            "optimum": 805,
+                                            "average": 1075
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 36,
+                                            "average": 17
+                                        },
+                                        "speed": {
+                                            "optimum": 405,
+                                            "average": 555
+                                        }
+                                    }
+                                },
+                                "coatedCarbide": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 17,
+                                            "average": 8
+                                        },
+                                        "speed": {
+                                            "optimum": 1165,
+                                            "average": 1295
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 28,
+                                            "average": 13
+                                        },
+                                        "speed": {
+                                            "optimum": 850,
+                                            "average": 1200
+                                        }
+                                    }
+                                },
+                                "ceramic": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 15,
+                                            "average": 8
+                                        },
+                                        "speed": {
+                                            "optimum": 3340,
+                                            "average": 4985
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 15,
+                                            "average": 8
+                                        },
+                                        "speed": {
+                                            "optimum": 1670,
+                                            "average": 2500
+                                        }
+                                    }
+                                },
+                                "cermet": {
+                                    "feed": {
+                                        "optimum": 7,
+                                        "average": 3
+                                    },
+                                    "speed": {
+                                        "optimum": 1610,
+                                        "average": 2055
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "hardness": "150-200",
+                            "toolMaterial": {
+                                "HSS": {
+                                    "speed": 160
+                                },
+                                "uncoatedCarbide": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 17,
+                                            "average": 8
+                                        },
+                                        "speed": {
+                                            "optimum": 745,
+                                            "average": 935
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 36,
+                                            "average": 17
+                                        },
+                                        "speed": {
+                                            "optimum": 345,
+                                            "average": 470
+                                        }
+                                    }
+                                },
+                                "coatedCarbide": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 28,
+                                            "average": 13
+                                        },
+                                        "speed": {
+                                            "optimum": 915,
+                                            "average": 1130
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 28,
+                                            "average": 13
+                                        },
+                                        "speed": {
+                                            "optimum": 785,
+                                            "average": 1110
+                                        }
+                                    }
+                                },
+                                "ceramic": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 15,
+                                            "average": 8
+                                        },
+                                        "speed": {
+                                            "optimum": 1795,
+                                            "average": 2680
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 15,
+                                            "average": 8
+                                        },
+                                        "speed": {
+                                            "optimum": 1485,
+                                            "average": 2215
+                                        }
+                                    }
+                                },
+                                "cermet": {
+                                    "feed": {
+                                        "optimum": 7,
+                                        "average": 3
+                                    },
+                                    "speed": {
+                                        "optimum": 1490,
+                                        "average": 1815
+                                    }
+                                }
+                            }
+                        }
+                    ]
+
+                },
+
+                {
+                    "saeDesignation": "1108, 1109, 1115, 1117, 1118, 1120, 1126, 1211",
+                    "brinellHardness": [
+                        {
+                            "hardness": "100-150",
+                            "toolMaterial": {
+                                "HSS": {
+                                    "speed": 130
+                                },
+                                "uncoatedCarbide": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 17,
+                                            "average": 8
+                                        },
+                                        "speed": {
+                                            "optimum": 730,
+                                            "average": 990
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 36,
+                                            "average": 17
+                                        },
+                                        "speed": {
+                                            "optimum": 300,
+                                            "average": 430
+                                        }
+                                    }
+                                },
+                                "coatedCarbide": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 17,
+                                            "average": 8
+                                        },
+                                        "speed": {
+                                            "optimum": 1090,
+                                            "average": 1410
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 28,
+                                            "average": 13
+                                        },
+                                        "speed": {
+                                            "optimum": 780,
+                                            "average": 1105
+                                        }
+                                    }
+                                },
+                                "ceramic": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 15,
+                                            "average": 8
+                                        },
+                                        "speed": {
+                                            "optimum": 1610,
+                                            "average": 2780
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 15,
+                                            "average": 8
+                                        },
+                                        "speed": {
+                                            "optimum": 1345,
+                                            "average": 2005
+                                        }
+                                    }
+                                },
+                                "cermet": {
+                                    "feed": {
+                                        "optimum": 7,
+                                        "average": 3
+                                    },
+                                    "speed": {
+                                        "optimum": 1355,
+                                        "average": 1695
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "hardness": "150-200",
+                            "toolMaterial": {
+                                "HSS": {
+                                    "speed": 120
+                                },
+                                "uncoatedCarbide": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 17,
+                                            "average": 8
+                                        },
+                                        "speed": {
+                                            "optimum": 745,
+                                            "average": 935
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 36,
+                                            "average": 17
+                                        },
+                                        "speed": {
+                                            "optimum": 345,
+                                            "average": 470
+                                        }
+                                    }
+                                },
+                                "coatedCarbide": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 28,
+                                            "average": 13
+                                        },
+                                        "speed": {
+                                            "optimum": 915,
+                                            "average": 1130
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 28,
+                                            "average": 13
+                                        },
+                                        "speed": {
+                                            "optimum": 785,
+                                            "average": 1110
+                                        }
+                                    }
+                                },
+                                "ceramic": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 15,
+                                            "average": 8
+                                        },
+                                        "speed": {
+                                            "optimum": 1795,
+                                            "average": 2680
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 15,
+                                            "average": 8
+                                        },
+                                        "speed": {
+                                            "optimum": 1485,
+                                            "average": 2215
+                                        }
+                                    }
+                                },
+                                "cermet": {
+                                    "feed": {
+                                        "optimum": 7,
+                                        "average": 3
+                                    },
+                                    "speed": {
+                                        "optimum": 1490,
+                                        "average": 1815
+                                    }
+                                }
+                            }
+                        }
+                    ]
+
+                },
+
+                {
+                    "saeDesignation": "1132, 1137, 1139, 1140, 1144, 1146, 1151",
+                    "brinellHardness": [
+                        {
+                            "hardness": "175-225",
+                            "toolMaterial": {
+                                "HSS": {
+                                    "speed": 120
+                                },
+                                "uncoatedCarbide": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 17,
+                                            "average": 8
+                                        },
+                                        "speed": {
+                                            "optimum": 615,
+                                            "average": 815
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 36,
+                                            "average": 17
+                                        },
+                                        "speed": {
+                                            "optimum": 300,
+                                            "average": 405
+                                        }
+                                    }
+                                },
+                                "coatedCarbide": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 17,
+                                            "average": 8
+                                        },
+                                        "speed": {
+                                            "optimum": 865,
+                                            "average": 960
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 28,
+                                            "average": 13
+                                        },
+                                        "speed": {
+                                            "optimum": 755,
+                                            "average": 960
+                                        }
+                                    }
+                                },
+                                "ceramic": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 13,
+                                            "average": 7
+                                        },
+                                        "speed": {
+                                            "optimum": 1400,
+                                            "average": 1965
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 13,
+                                            "average": 7
+                                        },
+                                        "speed": {
+                                            "optimum": 1170,
+                                            "average": 1640
+                                        }
+                                    }
+                                },
+                                "cermet": {
+                                    "feed": {
+                                        "optimum": 0,
+                                        "average": 0
+                                    },
+                                    "speed": {
+                                        "optimum": 0,
+                                        "average": 0
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "hardness": "275-325",
+                            "toolMaterial": {
+                                "HSS": {
+                                    "speed": 75
+                                },
+                                "uncoatedCarbide": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 17,
+                                            "average": 8
+                                        },
+                                        "speed": {
+                                            "optimum": 615,
+                                            "average": 815
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 36,
+                                            "average": 17
+                                        },
+                                        "speed": {
+                                            "optimum": 300,
+                                            "average": 405
+                                        }
+                                    }
+                                },
+                                "coatedCarbide": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 17,
+                                            "average": 8
+                                        },
+                                        "speed": {
+                                            "optimum": 865,
+                                            "average": 960
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 28,
+                                            "average": 13
+                                        },
+                                        "speed": {
+                                            "optimum": 755,
+                                            "average": 960
+                                        }
+                                    }
+                                },
+                                "ceramic": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 13,
+                                            "average": 7
+                                        },
+                                        "speed": {
+                                            "optimum": 1400,
+                                            "average": 1965
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 13,
+                                            "average": 7
+                                        },
+                                        "speed": {
+                                            "optimum": 1170,
+                                            "average": 1640
+                                        }
+                                    }
+                                },
+                                "cermet": {
+                                    "feed": {
+                                        "optimum": 0,
+                                        "average": 0
+                                    },
+                                    "speed": {
+                                        "optimum": 0,
+                                        "average": 0
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "hardness": "325-375",
+                            "toolMaterial": {
+                                "HSS": {
+                                    "speed": 50
+                                },
+                                "uncoatedCarbide": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 17,
+                                            "average": 8
+                                        },
+                                        "speed": {
+                                            "optimum": 515,
+                                            "average": 685
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 36,
+                                            "average": 17
+                                        },
+                                        "speed": {
+                                            "optimum": 235,
+                                            "average": 340
+                                        }
+                                    }
+                                },
+                                "coatedCarbide": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 17,
+                                            "average": 8
+                                        },
+                                        "speed": {
+                                            "optimum": 720,
+                                            "average": 805
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 28,
+                                            "average": 13
+                                        },
+                                        "speed": {
+                                            "optimum": 650,
+                                            "average": 810
+                                        }
+                                    }
+                                },
+                                "ceramic": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 10,
+                                            "average": 5
+                                        },
+                                        "speed": {
+                                            "optimum": 1430,
+                                            "average": 1745
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 10,
+                                            "average": 5
+                                        },
+                                        "speed": {
+                                            "optimum": 1070,
+                                            "average": 1305
+                                        }
+                                    }
+                                },
+                                "cermet": {
+                                    "feed": {
+                                        "optimum": 0,
+                                        "average": 0
+                                    },
+                                    "speed": {
+                                        "optimum": 0,
+                                        "average": 0
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "hardness": "375-425",
+                            "toolMaterial": {
+                                "HSS": {
+                                    "speed": 40
+                                },
+                                "uncoatedCarbide": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 17,
+                                            "average": 8
+                                        },
+                                        "speed": {
+                                            "optimum": 515,
+                                            "average": 685
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 36,
+                                            "average": 17
+                                        },
+                                        "speed": {
+                                            "optimum": 235,
+                                            "average": 340
+                                        }
+                                    }
+                                },
+                                "coatedCarbide": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 17,
+                                            "average": 8
+                                        },
+                                        "speed": {
+                                            "optimum": 720,
+                                            "average": 805
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 28,
+                                            "average": 13
+                                        },
+                                        "speed": {
+                                            "optimum": 650,
+                                            "average": 810
+                                        }
+                                    }
+                                },
+                                "ceramic": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 10,
+                                            "average": 5
+                                        },
+                                        "speed": {
+                                            "optimum": 1430,
+                                            "average": 1745
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 10,
+                                            "average": 5
+                                        },
+                                        "speed": {
+                                            "optimum": 1070,
+                                            "average": 1305
+                                        }
+                                    }
+                                },
+                                "cermet": {
+                                    "feed": {
+                                        "optimum": 0,
+                                        "average": 0
+                                    },
+                                    "speed": {
+                                        "optimum": 0,
+                                        "average": 0
+                                    }
+                                }
+                            }
+                        }
+                    ]
+
+                },
+
+                {
+                    "saeDesignation": "(Leaded): 11L17, 11L18, 12L13, 12L14",
+                    "brinellHardness": [
+                        {
+                            "hardness": "100-150",
+                            "toolMaterial": {
+                                "HSS": {
+                                    "speed": 140
+                                },
+                                "uncoatedCarbide": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 17,
+                                            "average": 8
+                                        },
+                                        "speed": {
+                                            "optimum": 745,
+                                            "average": 935
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 36,
+                                            "average": 17
+                                        },
+                                        "speed": {
+                                            "optimum": 345,
+                                            "average": 470
+                                        }
+                                    }
+                                },
+                                "coatedCarbide": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 28,
+                                            "average": 13
+                                        },
+                                        "speed": {
+                                            "optimum": 915,
+                                            "average": 1130
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 28,
+                                            "average": 13
+                                        },
+                                        "speed": {
+                                            "optimum": 785,
+                                            "average": 1110
+                                        }
+                                    }
+                                },
+                                "ceramic": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 15,
+                                            "average": 8
+                                        },
+                                        "speed": {
+                                            "optimum": 1795,
+                                            "average": 2680
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 15,
+                                            "average": 8
+                                        },
+                                        "speed": {
+                                            "optimum": 1485,
+                                            "average": 2215
+                                        }
+                                    }
+                                },
+                                "cermet": {
+                                    "feed": {
+                                        "optimum": 7,
+                                        "average": 3
+                                    },
+                                    "speed": {
+                                        "optimum": 1490,
+                                        "average": 1815
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "hardness": "150-200",
+                            "toolMaterial": {
+                                "HSS": {
+                                    "speed": 145
+                                },
+                                "uncoatedCarbide": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 17,
+                                            "average": 8
+                                        },
+                                        "speed": {
+                                            "optimum": 745,
+                                            "average": 935
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 36,
+                                            "average": 17
+                                        },
+                                        "speed": {
+                                            "optimum": 345,
+                                            "average": 470
+                                        }
+                                    }
+                                },
+                                "coatedCarbide": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 28,
+                                            "average": 13
+                                        },
+                                        "speed": {
+                                            "optimum": 915,
+                                            "average": 1130
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 28,
+                                            "average": 13
+                                        },
+                                        "speed": {
+                                            "optimum": 785,
+                                            "average": 1110
+                                        }
+                                    }
+                                },
+                                "ceramic": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 15,
+                                            "average": 8
+                                        },
+                                        "speed": {
+                                            "optimum": 1795,
+                                            "average": 2680
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 15,
+                                            "average": 8
+                                        },
+                                        "speed": {
+                                            "optimum": 1485,
+                                            "average": 2215
+                                        }
+                                    }
+                                },
+                                "cermet": {
+                                    "feed": {
+                                        "optimum": 7,
+                                        "average": 3
+                                    },
+                                    "speed": {
+                                        "optimum": 1490,
+                                        "average": 1815
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "hardness": "200-250",
+                            "toolMaterial": {
+                                "HSS": {
+                                    "speed": 110
+                                },
+                                "uncoatedCarbide": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 17,
+                                            "average": 8
+                                        },
+                                        "speed": {
+                                            "optimum": 615,
+                                            "average": 815
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 36,
+                                            "average": 17
+                                        },
+                                        "speed": {
+                                            "optimum": 300,
+                                            "average": 405
+                                        }
+                                    }
+                                },
+                                "coatedCarbide": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 17,
+                                            "average": 8
+                                        },
+                                        "speed": {
+                                            "optimum": 865,
+                                            "average": 960
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 28,
+                                            "average": 13
+                                        },
+                                        "speed": {
+                                            "optimum": 755,
+                                            "average": 960
+                                        }
+                                    }
+                                },
+                                "ceramic": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 13,
+                                            "average": 7
+                                        },
+                                        "speed": {
+                                            "optimum": 1400,
+                                            "average": 1965
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 13,
+                                            "average": 7
+                                        },
+                                        "speed": {
+                                            "optimum": 1170,
+                                            "average": 1640
+                                        }
+                                    }
+                                },
+                                "cermet": {
+                                    "feed": {
+                                        "optimum": 0,
+                                        "average": 0
+                                    },
+                                    "speed": {
+                                        "optimum": 0,
+                                        "average": 0
+                                    }
+                                }
+                            }
+                        }
+                    ]
+
+                }
+            ]
+
+        },
+        {
+            "materialType": "Plain carbon steels",
+            "materialDesignation": [
+                {
+                    "saeDesignation": "1006, 1008-1010, 1012, 1015-1026, 1513, 1514",
+                    "brinellHardness": [
+                        {
+                            "hardness": "100-125",
+                            "toolMaterial": {
+                                "HSS": {
+                                    "speed": 120
+                                },
+                                "uncoatedCarbide": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 17,
+                                            "average": 8
+                                        },
+                                        "speed": {
+                                            "optimum": 805,
+                                            "average": 1075
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 36,
+                                            "average": 17
+                                        },
+                                        "speed": {
+                                            "optimum": 405,
+                                            "average": 555
+                                        }
+                                    }
+                                },
+                                "coatedCarbide": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 17,
+                                            "average": 8
+                                        },
+                                        "speed": {
+                                            "optimum": 1165,
+                                            "average": 1295
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 28,
+                                            "average": 13
+                                        },
+                                        "speed": {
+                                            "optimum": 850,
+                                            "average": 1200
+                                        }
+                                    }
+                                },
+                                "ceramic": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 15,
+                                            "average": 8
+                                        },
+                                        "speed": {
+                                            "optimum": 3340,
+                                            "average": 4985
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 15,
+                                            "average": 8
+                                        },
+                                        "speed": {
+                                            "optimum": 1670,
+                                            "average": 2500
+                                        }
+                                    }
+                                },
+                                "cermet": {
+                                    "feed": {
+                                        "optimum": 7,
+                                        "average": 3
+                                    },
+                                    "speed": {
+                                        "optimum": 1610,
+                                        "average": 2055
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "hardness": "125-175",
+                            "toolMaterial": {
+                                "HSS": {
+                                    "speed": 110
+                                },
+                                "uncoatedCarbide": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 17,
+                                            "average": 8
+                                        },
+                                        "speed": {
+                                            "optimum": 745,
+                                            "average": 935
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 36,
+                                            "average": 17
+                                        },
+                                        "speed": {
+                                            "optimum": 345,
+                                            "average": 470
+                                        }
+                                    }
+                                },
+                                "coatedCarbide": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 28,
+                                            "average": 13
+                                        },
+                                        "speed": {
+                                            "optimum": 915,
+                                            "average": 1130
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 28,
+                                            "average": 13
+                                        },
+                                        "speed": {
+                                            "optimum": 785,
+                                            "average": 1110
+                                        }
+                                    }
+                                },
+                                "ceramic": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 15,
+                                            "average": 8
+                                        },
+                                        "speed": {
+                                            "optimum": 1795,
+                                            "average": 2680
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 15,
+                                            "average": 8
+                                        },
+                                        "speed": {
+                                            "optimum": 1485,
+                                            "average": 2215
+                                        }
+                                    }
+                                },
+                                "cermet": {
+                                    "feed": {
+                                        "optimum": 7,
+                                        "average": 3
+                                    },
+                                    "speed": {
+                                        "optimum": 1490,
+                                        "average": 1815
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "hardness": "175-225",
+                            "toolMaterial": {
+                                "HSS": {
+                                    "speed": 90
+                                },
+                                "uncoatedCarbide": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 17,
+                                            "average": 8
+                                        },
+                                        "speed": {
+                                            "optimum": 615,
+                                            "average": 815
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 36,
+                                            "average": 17
+                                        },
+                                        "speed": {
+                                            "optimum": 300,
+                                            "average": 405
+                                        }
+                                    }
+                                },
+                                "coatedCarbide": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 17,
+                                            "average": 8
+                                        },
+                                        "speed": {
+                                            "optimum": 865,
+                                            "average": 960
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 28,
+                                            "average": 13
+                                        },
+                                        "speed": {
+                                            "optimum": 755,
+                                            "average": 960
+                                        }
+                                    }
+                                },
+                                "ceramic": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 13,
+                                            "average": 7
+                                        },
+                                        "speed": {
+                                            "optimum": 1400,
+                                            "average": 1965
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 13,
+                                            "average": 7
+                                        },
+                                        "speed": {
+                                            "optimum": 1170,
+                                            "average": 1640
+                                        }
+                                    }
+                                },
+                                "cermet": {
+                                    "feed": {
+                                        "optimum": 0,
+                                        "average": 0
+                                    },
+                                    "speed": {
+                                        "optimum": 0,
+                                        "average": 0
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "hardness": "225-275",
+                            "toolMaterial": {
+                                "HSS": {
+                                    "speed": 70
+                                },
+                                "uncoatedCarbide": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 17,
+                                            "average": 8
+                                        },
+                                        "speed": {
+                                            "optimum": 615,
+                                            "average": 815
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 36,
+                                            "average": 17
+                                        },
+                                        "speed": {
+                                            "optimum": 300,
+                                            "average": 405
+                                        }
+                                    }
+                                },
+                                "coatedCarbide": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 17,
+                                            "average": 8
+                                        },
+                                        "speed": {
+                                            "optimum": 865,
+                                            "average": 960
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 28,
+                                            "average": 13
+                                        },
+                                        "speed": {
+                                            "optimum": 755,
+                                            "average": 960
+                                        }
+                                    }
+                                },
+                                "ceramic": {
+                                    "hard": {
+                                        "feed": {
+                                            "optimum": 13,
+                                            "average": 7
+                                        },
+                                        "speed": {
+                                            "optimum": 1400,
+                                            "average": 1965
+                                        }
+                                    },
+                                    "tough": {
+                                        "feed": {
+                                            "optimum": 13,
+                                            "average": 7
+                                        },
+                                        "speed": {
+                                            "optimum": 1170,
+                                            "average": 1640
+                                        }
+                                    }
+                                },
+                                "cermet": {
+                                    "feed": {
+                                        "optimum": 0,
+                                        "average": 0
+                                    },
+                                    "speed": {
+                                        "optimum": 0,
+                                        "average": 0
+                                    }
+                                }
+                            }
+                        }
+                    ]
+
+                }
+            ]
+
+        }
+    ]
+}
